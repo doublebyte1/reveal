@@ -336,7 +336,7 @@ Note:
 
 Offer a specialized and diverse tech education, to the groups that have traditionally been on the margins of tech.
 
-<img  style="background:none; border:none; box-shadow:none;" src="/images/empty_frame.png" width="60%">
+<img  style="background:none; border:none; box-shadow:none;" src="/images/empty_frame.png" width="50%">
 
 Note:
 - Empower them with skills to actively participate in shaping our society, and to create a more diverse and inclusive future for everyone.
@@ -347,14 +347,17 @@ Note:
 ### I would love to hear from you
 
 - joana@codeop.tech
-- @doublebyte
-- doublebyteblog
-- joanasimoes
+- Twitter: @doublebyte
+- WP: doublebyteblog
+- Linkedin: joanasimoes
+- Github: doublebyte1
 - Jo at CodeOp Community Slack
 
 
-
-
+<small>
+This presentation was created using [Reveal.js](https://revealjs.com/#/), the HTML presentation framework. Fork it at:
+[https://github.com/doublebyte1/reveal](https://github.com/doublebyte1/reveal)
+</small>
 
 
 ---
