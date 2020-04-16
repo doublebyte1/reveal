@@ -336,25 +336,42 @@ Note:
 
 Offer a specialized and diverse tech education, to the groups that have traditionally been on the margins of tech.
 
-<img  style="background:none; border:none; box-shadow:none;" src="/images/empty_frame.png" width="50%">
+<img  style="background:none; border:none; box-shadow:none;" src="/images/codeop.jpeg" width="50%">
 
 Note:
 - Empower them with skills to actively participate in shaping our society, and to create a more diverse and inclusive future for everyone.
 
 --
 ## Thank you!
-
 ### I would love to hear from you
 
 <small>
-- joana@codeop.tech
-- Twitter: @doublebyte
-- WP: doublebyteblog
-- Linkedin: joanasimoes
-- Github: doublebyte1
-- Jo at CodeOp Community Slack
+<table style="border-collapse: collapse; color:black; border: 0px yellow none; font-size: 15px; vertical-align: bottom;">
+    <tr>
+        <td><img src="/images/email_icon.png" height="15px" style="background:none; border:none; box-shadow:none;"></td> 
+        <td>joana@codeop.tech</td>
+    </tr>
+    <tr>
+        <td><img src="/images/twitter.png" height="15px" style="background:none; border:none; box-shadow:none;"></td> 
+        <td>@doublebyte</td>
+    </tr>    
+    <tr>
+        <td><img src="/images/wp.png" height="15px" style="background:none; border:none; box-shadow:none;"></td> 
+        <td>doublebyteblog</td>
+    </tr>
+    <tr>
+        <td><img src="/images/Github-PNG-Image.png" height="15px" style="background:none; border:none; box-shadow:none;"></td> 
+        <td>doublebyte1</td>
+    </tr>  
+    <tr>
+        <td><img src="/images/slack.png" height="15px" style="background:none; border:none; box-shadow:none;"></td> 
+        <td>Jo at CodeOp Community channel</td>
+    </tr>  
+</table>
 
+</small>
 
+---
 
 This presentation was created using [Reveal.js](https://revealjs.com/#/), the HTML presentation framework. Fork it at:
 [https://github.com/doublebyte1/reveal](https://github.com/doublebyte1/reveal)
